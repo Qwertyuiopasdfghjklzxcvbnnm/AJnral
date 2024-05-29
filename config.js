@@ -27,7 +27,7 @@ global.owner = [
   ['967776050874']
 ] 
 
-global.suittag = ['967776050874'] 
+global.suittag = ['994401122929'] 
 global.prems = ['967776050874'] 
 
 global.packname = '亗『بوت الجنرال١²』亗'
