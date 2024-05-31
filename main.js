@@ -331,12 +331,12 @@ global.reloadHandler = async function(restatConn) {
 
   conn.welcome = '👋 ¡Welcome/to!\n@user';
   conn.bye = '👋 ¡See you later!\n@user';
-  conn.spromote = '*[ ℹ️ ] @user He was promoted to administrator.*';
-  conn.sdemote = '*[ ℹ️ ] @user He was demoted from administrator.*';
-  conn.sDesc = '*[ ℹ️ ] The group description has been modified.*';
-  conn.sSubject = '*[ ℹ️ ] The group name has been changed.*';
-  conn.sIcon = '*[ ℹ️ ] The group profile photo has been changed.*';
-  conn.sRevoke = '*[ ℹ️ ] The group invite link has been reset.*';
+  conn.spromote = '*[ ℹ️ ] @user تمت ترقيته إلى المسؤول.*';
+  conn.sdemote = '*[ ℹ️ ] @user تم تخفيض رتبته من المسؤول.*';
+  conn.sDesc = '*[ ℹ️ ] تم تعديل وصف المجموعة.*';
+  conn.sSubject = '*[ ℹ️ ] تم تغيير اسم المجموعة.*';
+  conn.sIcon = '*[ ℹ️ ] تم تغيير صورة ملف تعريف المجموعة.*';
+  conn.sRevoke = '*[ ℹ️ ] تمت إعادة تعيين رابط دعوة المجموعة.*';
 
   conn.handler = handler.handler.bind(global.conn);
   conn.participantsUpdate = handler.participantsUpdate.bind(global.conn);
@@ -490,7 +490,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `BOBIZA BOT [ ⏳ ] Uptime: ${uptime}`;
+  const bio = ` بوت حماية جروبات المطور الجنرال: ${uptime}`;
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {
