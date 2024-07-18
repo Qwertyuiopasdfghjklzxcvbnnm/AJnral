@@ -1,9 +1,22 @@
-مرحبآ بك في ريبوت الجنرال صنع بوتات وتس 
-اي مشكله حصلت معاك توصل معي عبر الروابط التاليه 
-تواصل تلجرام 
- http://t.me/ALGNRGN
- تواصل وتساب 
- https://chat.whatsapp.com/J1nuh4EXABFFtAy7zKdJFU
-حسابي علا انستا 
-@r_e_nn2
+Thank you to
+▇BrunoSobrino ♥
+▇malik ♥
+▇Guru322 ♥
+▇elrebelde21 ♥
+▇KatashiFukushima ♥
+▇ruhend2001 ♥
+▇gata ♥
+▇and others 😁
+لا أتقن أي لغة برمجة لذا ان اخطأت فلا عذر لي لا نزال في طريق التعلم ... رغم ذلك أهوى التعديل على السكريبتات ههه ♥ اتمنى انك استفذت 
+اي ملاحطة او مساعدة انا هنا
+
+https://instagram.com/noureddine_ouafy
+
+get session code from this link
+
+https://replit.com/@bobiztestbot/bobiza-qrcode
+
+Im not a dev bot just copy and past 😆 i steel leaning but it's haaaard 😸
  
+heroku tutorial video :
+https://youtu.be/ypyLVUpK-zc?si=_pRpNkABjo-4_eGG
